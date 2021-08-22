@@ -15,3 +15,7 @@ Your site is having problems building: The submodule registered for ./p5-sm-test
 ```
 
 [Origin von Sumbodules ändern](https://stackoverflow.com/questions/55241341/changing-https-address-of-submodules-in-git-config-to-ssh-address)
+
+**Schritte unter obigem Link reichen nicht aus, bzw. sind irrelevant.**
+
+Geändert werden muss die Datei `.gitmodules` im Hauptverzeichnis des Repos, siehe [Using submodules with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-submodules-with-github-pages).
